@@ -2,4 +2,4 @@ name: LoggerX
 main: loggerx.Main
 version: "${pom.version}"
 api: ["1.0.0"]
-author: PetteriM1
+author: PetteriM1 & Paul McDonough
